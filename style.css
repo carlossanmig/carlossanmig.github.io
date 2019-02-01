@@ -1,0 +1,52 @@
+/*LEFT*/
+#L {
+    background-color: #F2DC5D;
+    text-align: center;
+    height: 1000ch;
+    width: 16em
+}
+
+.photo {
+    border-radius: 50%;
+}
+
+h2 {
+    color: #585123;
+}
+
+body {
+    background-color: #ECFEAA;
+}
+
+h4 {
+    color: #F18F01;
+}
+
+ul {
+    list-style: none;
+}
+
+ul {
+    color: #F49E4C;
+
+}
+
+a {
+    color: #585123;
+}
+
+/*RIGHT*/
+#R {
+    padding-left: 5em;
+}
+h1 {
+    color: #585123;
+}
+
+h3 {
+    color: #F18F01;
+}
+
+h5 {
+    color: #F18F01;
+}
